@@ -1,0 +1,4 @@
+[submodule "timer-task-example"]
+	path = timer-task-example
+	url = git@github.com:patotskiy/timer-task-example.git
+	branch = master

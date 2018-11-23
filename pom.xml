@@ -8,5 +8,19 @@
     <artifactId>submodules-testing</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.epam</groupId>
+            <artifactId>timer-task-example</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <scope>system</scope>
+            <systemPath>/Users/yauhenipatotski/IdeaProjects/submodules-testing/timer-task-example/pom.xml</systemPath>
+        </dependency>
+        <dependency>
+            <groupId>com.github.patotskiy</groupId>
+            <artifactId>submodules-testing</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 
 </project>
